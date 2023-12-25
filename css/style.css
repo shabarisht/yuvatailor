@@ -1,0 +1,14 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+.banner{
+    background-image: url(/yuvatailor-1/css/sliders.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 300px 0;
+}
+
+.skills-padding{
+    padding: 60px 0;
+}
+
